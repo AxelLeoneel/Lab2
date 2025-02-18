@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\Debug\borradorinho.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>borradorinho.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>borradorinho.map</FILE>
+  <FILE>borradorinho.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>25</LINE></SETUP>
+  <tablita><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>17</LINE></tablita>
+  <MAIN_LOOP><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>65</LINE></MAIN_LOOP>
+  <DELAY><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>122</LINE></DELAY>
+  <INCREMENTO><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>85</LINE></INCREMENTO>
+  <DECREMENTO><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>99</LINE></DECREMENTO>
+  <CERO><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>110</LINE></CERO>
+  <SUBDELAY1><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>125</LINE></SUBDELAY1>
+  <SUBDELAY2><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>130</LINE></SUBDELAY2>
+  <SUBDELAY3><FILE>C:\Users\axell\Desktop\U\7mo ciclo (Electronica)\Programacion de microcontroladores\Laboratorio 2\Borrador\borradorinho\borradorinho\main.asm</FILE><LINE>135</LINE></SUBDELAY3>
+ </LABELS>
+</ASSEMBLER_INFO>
